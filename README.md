@@ -241,37 +241,46 @@ plt.show()
 
 * Original image
   
-<img width="578" height="357" alt="image" src="https://github.com/user-attachments/assets/2f669df7-48b6-489b-9d11-123e553699da" />
+<img width="520" height="310" alt="image" src="https://github.com/user-attachments/assets/ff619eb0-eaa9-4afa-b545-58b5f2703c33" />
+
 
 
 * Grayscale image
 
-<img width="598" height="383" alt="image" src="https://github.com/user-attachments/assets/53e38266-cf26-41dc-a774-cd5ff637e1c9" />
+<img width="520" height="335" alt="image" src="https://github.com/user-attachments/assets/c0ed4f1f-4c0b-46ee-8d40-ed50e219a822" />
+
 
 
 * Thresholded image
   
-<img width="762" height="462" alt="image" src="https://github.com/user-attachments/assets/ee2eb183-ae13-418e-88b8-a01fbca684f5" />
+<img width="666" height="416" alt="image" src="https://github.com/user-attachments/assets/d480df0f-bbf6-46f1-8ae2-4ef024e7f2b7" />
+
+
 
 * ROI masked image
 
-<img width="762" height="448" alt="image" src="https://github.com/user-attachments/assets/c8297e1f-0ede-4695-b7e0-ca807a5baa33" />
+<img width="675" height="418" alt="image" src="https://github.com/user-attachments/assets/770fa571-c9aa-410d-9fa0-ecdd74980432" />
+
 
 * Edge detected image
 
-<img width="771" height="465" alt="image" src="https://github.com/user-attachments/assets/8f7aa5af-6f69-4ad9-9f69-dd288e6b9355" />
+<img width="692" height="412" alt="image" src="https://github.com/user-attachments/assets/cb5a32a8-f40d-494c-a001-97773117fce9" />
+
 
 * Smoothed image
 
-<img width="763" height="462" alt="image" src="https://github.com/user-attachments/assets/ab82935e-4a09-4999-9ed6-dc1e4876160d" />
+<img width="670" height="403" alt="image" src="https://github.com/user-attachments/assets/de4d72eb-31c9-4256-b3d6-988e324648ad" />
+
 
 * Detected lines
 
-<img width="742" height="462" alt="image" src="https://github.com/user-attachments/assets/a6335367-9a6c-4ce6-89bd-eb8bd4e68cf9" />
+<img width="663" height="410" alt="image" src="https://github.com/user-attachments/assets/6c3ca0c2-f323-4792-989c-d1c0cd7567c9" />
+
 
 * Final lane detection output
 
-<img width="1270" height="758" alt="image" src="https://github.com/user-attachments/assets/7426984f-baa6-4410-9a01-9778be1d91a6" />
+<img width="1090" height="650" alt="image" src="https://github.com/user-attachments/assets/8522af23-b89e-405c-b677-7eff9708a711" />
+
 
 
 ---
